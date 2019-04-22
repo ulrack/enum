@@ -58,6 +58,13 @@ abstract class Enum
         return self::$classConstants[static::class]['ordinal'][$value];
     }
 
+    /**
+     * Retrieves all options from the enum.
+     *
+     * @method getOptions
+     *
+     * @return array
+     */
     public static function getOptions(): array
     {
         self::mapConstants(static::class);
