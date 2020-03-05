@@ -23,7 +23,7 @@ An implementation of the enumerable would look like the following:
 ```php
 <?php
 /**
- * Copyright (C) Jyxon, Inc. All rights reserved.
+ * Copyright (C) GrizzIT, Inc. All rights reserved.
  * See LICENSE for license details.
  */
 
@@ -50,7 +50,7 @@ An implementation of this in action would look like the following:
 ```php
 <?php
 /**
- * Copyright (C) Jyxon, Inc. All rights reserved.
+ * Copyright (C) GrizzIT, Inc. All rights reserved.
  * See LICENSE for license details.
  */
 
@@ -79,7 +79,7 @@ For example to retrieve all options, the static method `getOptions` can be calle
 This would retrieve an associative array of the options.
 
 It is also possible to retrieve the enumerable name by supplying the value to a different function.
-This can be done by calling `MyEnum::getOrdinal('foo')` which would yield `FOO`. 
+This can be done by calling `MyEnum::getOrdinal('foo')` which would yield `FOO`.
 
 ## Change log
 
@@ -91,7 +91,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) and [CODE_OF_CONDUCT](CODE_OF_CONDUCT
 
 ## MIT License
 
-Copyright (c) 2019 Jyxon
+Copyright (c) 2019 GrizzIT
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
