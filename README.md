@@ -1,3 +1,5 @@
+# DEPRECATION NOTICE: this package has been moved and improved at [grizz-it/enum](https://github.com/grizz-it/enum)
+
 [![Build Status](https://travis-ci.com/ulrack/enum.svg?branch=master)](https://travis-ci.com/ulrack/enum)
 
 # Ulrack Enum
